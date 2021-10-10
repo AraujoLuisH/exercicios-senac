@@ -20,7 +20,7 @@ console.log("10-CandidatoA; 20-CandidatoB; 30-CandidatoC; 40-Nulo; 50-Branco")
 
 //Estrutura de repetição, com condicional
 
-for (i = 0; encerraVoto === "on"; i++ ){
+while (encerraVoto === "on"){
     console.log(" ")
     let select = prompt("Digite seu voto")
 
