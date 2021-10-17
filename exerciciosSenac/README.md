@@ -2,7 +2,16 @@
 
 ## Lista de adição ⬇
 
- **Adição de  exercícios propostos pelo Professor Calixto, curso Algoritmos e Programação.**
+- **Projeto PTI do Curso Algoritmos e Programação I **
+
+  - Considerando seu conhecimento e as explicações acima, elabore um programa em JavaScript:
+
+     A) que receba como entrada o preço da gasolina e o preço do álcool e informe ao usuário qual é o combustível mais vantajoso (ou se tanto faz abastecer qual qualquer um deles).
+
+     B) Considere que depois, o programa deve perguntar ao usuário se deseja efetuar um novo cálculo: se u usuário confirmar que sim, o programa solicita as entradas novamente. Senão, o programa é encerrado.
+
+- **Adição de  exercícios propostos pelo Professor Calixto, curso Algoritmos e Programação.**
+
 1. Escreva um programa para que sejam informados 10 (dez) números inteiros. O programa deve informar o menor e o maior valor informado.
 
    
